@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcul</string>
+    <string name="panjang">panjang</string>
+    <string name="lebar">lebar</string>
+    <string name="length">length</string>
+    <string name="width">width</string>
+    <string name="height">height</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+</resources>
